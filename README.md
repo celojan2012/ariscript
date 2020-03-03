@@ -1,0 +1,2 @@
+# ariscript
+scripts ubunutu ARI
